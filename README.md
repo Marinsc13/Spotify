@@ -1,2 +1,3 @@
-Este trabalho apresenta a criação de uma interface inspirada na tela de login do Spotify, com design moderno e funcional. O projeto inclui campos para e-mail e senha, além do botão de entrada, mantendo a estética característica da plataforma. 
-A interface também simula a navegação inicial do aplicativo, com elementos visuais que remetem a playlists, artistas e músicas populares, proporcionando uma experiência visual semelhante à de um usuário real.
+Este projeto apresenta a criação de uma interface inspirada na tela de login do Spotify, com design moderno e funcional.  
+O layout inclui campos para **e-mail** e **senha**, além de um **botão de entrada**, mantendo a estética característica da plataforma.
+A interface também simula a navegação inicial do aplicativo, com elementos visuais que remetem a **playlists**, **artistas** e **músicas populares**, proporcionando uma experiência visual semelhante à de um usuário real.
